@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.content {
+    width: 100%;
+    background:url(bg_!.png);
+    background-position: 100%;
+    background-size: cover;
+    height: 100dvh;
+    text-align: center;
+}
+.content h1{
+    padding:20px;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    font-style: bold;
+    color: white;
+}
+.content p{
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    color: azure;
+}
